@@ -3,8 +3,6 @@
 // 中序遍历： 左中右. 先访问左子树, 再访问根节点, 最后访问右子树 fcgadbe
 // 后序遍历： 左右中. 先访问左子树, 再访问右子树, 最后访问根节点 fgcdeba
 
-//
-
 function Node(value) {
   this.value = value;
   this.left = null;
